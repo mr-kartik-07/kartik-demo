@@ -1,2 +1,2 @@
 # kartik-demo
-Author - Kartik Pal
+Author - Kartik (MMDU)
